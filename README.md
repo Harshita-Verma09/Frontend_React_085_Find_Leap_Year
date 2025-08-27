@@ -10,6 +10,7 @@ A simple React + TypeScript + Vite application to check if a given year is a lea
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - Node.js (v18+ recommended)
